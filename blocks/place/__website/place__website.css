@@ -1,0 +1,19 @@
+.place__website {
+  padding-bottom: 48px;
+  align-self: end;
+  max-width: 456px;
+}
+
+@media (max-width: 1023px) {
+  .place__website {
+    max-width: 352px;
+  }
+}
+
+@media (max-width: 767px) {
+  .place__website {
+    padding-bottom: 32px;
+    padding-left: 16px;
+    max-width: 288px;
+  }
+}
