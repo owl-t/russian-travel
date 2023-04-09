@@ -5,19 +5,20 @@
   box-sizing: border-box;
 }
 
+@media (max-width: 1279px) {
+  .content {
+    max-width: 1024px;
+  }
+}
+
 @media (max-width: 1023px) {
-  .page__content {
+  .content {
     max-width: 768px;
   }
 }
 
 @media (max-width: 767px) {
-  .page__content {
+  .content {
     max-width: 320px;
-  }
-}
-@media (max-width: 1279px) {
-  .page__content {
-    max-width: 1024px;
   }
 }

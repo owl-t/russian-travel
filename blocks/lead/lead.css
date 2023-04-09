@@ -1,5 +1,5 @@
 .lead {
-  max-width: 83%;
+  max-width: 82.5%;
   margin: auto;
   padding-bottom: 92px;
   display: flex;
@@ -7,9 +7,9 @@
   align-items: center;
 }
 
-@media (max-width: 1297px) {
+@media (max-width: 1279px) {
   .lead {
-    max-width: 90.5%;
+    max-width: 90%;
   }
 }
 
