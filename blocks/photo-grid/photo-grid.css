@@ -19,6 +19,7 @@
   .photo-grid {
     max-width: 720px;
     padding-top: 88px;
+    padding-bottom: 88px;
     gap: 16px;
   }
 }
