@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-@media (max-width: 1279px) {
+/* @media (max-width: 1279px) {
   .content {
     max-width: 1024px;
   }
@@ -21,4 +21,4 @@
   .content {
     max-width: 320px;
   }
-}
+} */
